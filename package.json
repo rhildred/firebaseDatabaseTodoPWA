@@ -1,0 +1,29 @@
+{
+  "name": "firebasedatabase",
+  "version": "1.0.0",
+  "description": "es6 project from scratch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel public/index.html --port $PORT --host 0.0.0.0 --no-hmr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "var express = require('express');"
+  },
+  "keywords": [
+    "var",
+    "path",
+    "=",
+    "require('path');"
+  ],
+  "author": "var app = express",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "firebase": "^5.8.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
